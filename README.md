@@ -13,6 +13,6 @@ Menampilkan detail total harga keseluruhan<br><br>
 <img src="/inputsepatu.jpg" width="200" height="400" />
 
 
-## Tampilan 1. 
+## Tampilan 3. 
 konfirmasi pesanan<br><br>
 <img src="/konfirmasi.jpg" width="200" height="400" />
